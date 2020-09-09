@@ -1,3 +1,3 @@
 # staticSquare
 A static square made using Matter.js physics engine
-https://rishitasingh.github.io/My-game-2-/
+https://payelbera.github.io/Rishita-s-Game/.
